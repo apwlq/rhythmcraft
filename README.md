@@ -7,11 +7,13 @@
 현재 버전 : 3.0
 
 ## [리듬크래프트 서버](https://github.com/apwlq/rhythmcraft/tree/master/rhythmcraft-server)
-### 리듬크래프트 서버입니다.  
+리듬크래프트 서버입니다.  
+---
 해당 코드에는 [파링](https://github.com/pikokr)님이 [정현수](https://github.com/wjdgustn)님이 제작하신 리듬크래프트의 수정본을 사용하였습니다.
 
 ## [리듬크래프트 클라이언트](https://github.com/apwlq/rhythmcraft/tree/master/rhythmcraft-client)
-### 리듬크래프트 클라이언트입니다.
+리듬크래프트 클라이언트입니다.
+---
 웹 버전보다 더 많은 기능을 사용 할 수 있습니다.  
 
 제작된 기능
