@@ -1,5 +1,5 @@
 {
-  "SERVER_NAME": "RhythmCraft",
+  "SERVER_NAME": "RhythmCraft3", 
   "SITE_BASEURL": "",
 
   "PORT": 8080,
@@ -23,5 +23,5 @@
     "host": "localhost",
     "port": 2525
   },
-  "client": "pikokr/rhythmcraft-client"
+  "client": "apwlq/rhythmcraft-client"
 }
