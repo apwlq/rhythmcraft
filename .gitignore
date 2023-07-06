@@ -1,8 +1,8 @@
-/node_modules/
-/.idea/
-setting.json
-login.json
+/rhythmcraft-server/node_modules/
+/rhythmcraft-server/.idea/
+/rhythmcraft-serversetting.json
+/rhythmcraft-serverlogin.json
 *.exe
 *.zip
-dev
-data
+/rhythmcraft-serverdev
+/rhythmcraft-serverdata
