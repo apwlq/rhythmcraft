@@ -1,8 +1,16 @@
+# 서버 ignore
 /rhythmcraft-server/node_modules/
 /rhythmcraft-server/.idea/
 /rhythmcraft-serversetting.json
 /rhythmcraft-serverlogin.json
 *.exe
 *.zip
-/rhythmcraft-serverdev
-/rhythmcraft-serverdata
+/rhythmcraft-server/dev
+/rhythmcraft-server/data
+
+
+# 클라이언트 ignore
+/rhythmcraft-client/dist/
+/rhythmcraft-client/.idea/
+/rhythmcraft-client/node_modules
+/rhythmcraft-client/data.json
